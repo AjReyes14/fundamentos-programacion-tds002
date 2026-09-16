@@ -1,8 +1,8 @@
 # Fundamentos de Programación - TDS002
 
-**Nombre:** Anthony Junior Reyes Suero  
-**Matrícula:** TU_MATRICULA  
-**Sección:** TU_SECCION  
+Nombre: Anthony Junior Reyes Suero  
+Matrícula: 20251972
+
 
 ## Índice de temas
 
